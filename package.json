@@ -11,7 +11,7 @@
     "@calvin_von/axios-api-module": "^3.1.1",
     "axios": "^0.19.2",
     "core-js": "^3.6.5",
-    "vant": "^2.10.2",
+    "vant": "^2.10.4",
     "vue": "^2.6.12",
     "vue-router": "^3.4.3",
     "vuex": "^3.4.0"
